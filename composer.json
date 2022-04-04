@@ -1,0 +1,19 @@
+{
+    "name": "lzqing/test",
+    "description": "dev",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lzqing",
+            "email": "350689808@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "test\\":"src"
+        }
+    }
+}
